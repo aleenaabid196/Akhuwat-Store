@@ -29,3 +29,23 @@ An intuitive and feature-rich mobile application for seamless online shopping, o
 
 - **Frontend:** Dart, Flutter
 - **Backend:** Firebase Authentication, Firestore, Firebase Cloud Messaging, Firebase Storage
+
+## User Interface
+
+**On Boarding**
+![OnBoarding](https://raw.githubusercontent.com/aleenaabid196/Akhuwat-Store/refs/heads/main/UI_Screenshots/OnBoarding%20Screen.png)
+
+**Sign Up**
+![Sign_Up](https://raw.githubusercontent.com/aleenaabid196/Akhuwat-Store/refs/heads/main/UI_Screenshots/SignUp.png)
+
+**Category**
+![Category](https://raw.githubusercontent.com/aleenaabid196/Akhuwat-Store/refs/heads/main/UI_Screenshots/Category.png)
+
+**Profile**
+![Profile](https://raw.githubusercontent.com/aleenaabid196/Akhuwat-Store/refs/heads/main/UI_Screenshots/Profile%20Edit.png)
+
+**Messaging**
+![Messaging](https://raw.githubusercontent.com/aleenaabid196/Akhuwat-Store/refs/heads/main/UI_Screenshots/Messaging.jpeg)
+
+**Checkout**
+![Checkout](https://raw.githubusercontent.com/aleenaabid196/Akhuwat-Store/refs/heads/main/UI_Screenshots/Checkout.png)
