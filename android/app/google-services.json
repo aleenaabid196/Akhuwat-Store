@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175993939021",
+    "project_id": "akhuwat-store",
+    "storage_bucket": "akhuwat-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175993939021:android:5ba060b5c8a6d733422804",
+        "android_client_info": {
+          "package_name": "com.example.emart_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAgh49hTOEW2cMq7D_6UWM9Ar_ggnjZEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
